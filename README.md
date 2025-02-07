@@ -2,7 +2,7 @@
 - 👀 I’m interested in empirical economics
 - 🌱 I’m currently learning penalized SCM and DCM TWFE for heterogenous effects
 - 💞️ I’m looking to collaborate on energy efficiency economics
-- 📫 How to reach me ...
+- 📫 guillaume.wald@minesparis.psl.eu
 
 <!---
 guillaumewald/guillaumewald is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
